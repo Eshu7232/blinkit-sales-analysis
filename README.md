@@ -1,4 +1,4 @@
-# blinkit-sales-analysis
+# Blinkit-Sales-Analysis
 
 ##blinkit sales-dashboard
 
